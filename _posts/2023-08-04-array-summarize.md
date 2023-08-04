@@ -1,3 +1,10 @@
+---
+title: Array Summarize
+author: cotes
+date: 2023-08-04 11:49:00 +0800
+categories: [Algorithm, Array]
+tags: [Algorithm]
+---
 # 数组
 ## 双指针
 若数组是有序的，第一时间想的是双指针解题
